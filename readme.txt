@@ -3,7 +3,7 @@ Contributors: tleen
 Tags: humans.txt, humans
 Requires at least: 1.0
 Tested up to: 4.7.3
-Stable tag: 0.0.0
+Stable tag: 0.0.1
 License: MIT
 License URI: https://github.com/tleen/wp-humanity/blob/master/LICENSE
 
