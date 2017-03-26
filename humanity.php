@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Humanity
  * Plugin URI: https://github.com/tleen/wp-humanity
- * Description: Serve up an existing humans.txt file
+ * Description: Serve up an existing humans.txt file from theme or WP root
  * Version: 0.0.0
  * Author: tleen
  * Author URI: http://www.thomasleen.com
