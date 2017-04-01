@@ -11,15 +11,15 @@
  * Humans.txt Compatibility File
  *
  * Supports the serving of a humans.txt file as supplied by a theme author.
- * Wil lseek to serve a humans.txt file present in a child theme, parent theme
+ * Will seek to serve a humans.txt file present in a child theme, parent theme
  * then WordPress webroot in that order. 
  *
  *
  * Cribbed heavily from example at oneextrapixel.com
  *
- * Author: Anna Ladoshkina
- * Description: Code snippet to incorporate humans.txt functionality into WordPress
- * Author URI: http://about.me/foralien
+ * Original Author / Anna Ladoshkina
+ * Original Description / Code snippet to incorporate humans.txt functionality into WordPress
+ * Original Author URI / http://about.me/foralien
  *
  * Removed the part about displaying buttons (no need here) and changed embedded file to
  * be loaded from theme root.
